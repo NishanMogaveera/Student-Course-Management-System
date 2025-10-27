@@ -2,6 +2,7 @@
 This project is a  web application that manages students, faculty, courses, and registrations in a college or university environment. It connects to a MySQL database to store and retrieve information dynamically.
 
 Features:-
+
 1.Manage Students: Add, update, view, and delete student records.
 
 2.Manage Courses: Add and remove courses, with faculty assignments.
