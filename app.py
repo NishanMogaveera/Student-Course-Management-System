@@ -8,7 +8,7 @@ def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Mysql@555777",   # 🔹 change this
+        password="Mysql@555777",   
         database="StudentCourseDB"
     )
 
@@ -191,3 +191,4 @@ def add_registration():
 # -------------------- MAIN --------------------
 if __name__ == "__main__":
     app.run(debug=True)
+
