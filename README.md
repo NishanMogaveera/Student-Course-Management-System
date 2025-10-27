@@ -13,6 +13,8 @@ Features:-
 
 5.Search Functionality: Search registrations by student, course, or faculty name.
 
+6.Dynamic Web Interface: All data is displayed using Flask templates with real-time updates.
+
 
 <img width="1905" height="922" alt="Screenshot 2025-10-27 163531" src="https://github.com/user-attachments/assets/c8d77351-8996-4637-8226-828ec3ffb978" />
 
