@@ -1,6 +1,14 @@
 # Student-Course-Management-System
 This project is a  web application that manages students, faculty, courses, and registrations in a college or university environment. It connects to a MySQL database to store and retrieve information dynamically.
 
+Features:-
+1.Manage Students: Add, update, view, and delete student records.
+2.Manage Courses: Add and remove courses, with faculty assignments.
+3.Manage Faculty: Maintain faculty details and their departments.
+4.Student Registration: Register students for courses under specific faculty.
+5.Search Functionality: Search registrations by student, course, or faculty name.
+6.Dynamic Web Interface: All data is displayed using Flask templates with real-time updates.
+
 <img width="1905" height="922" alt="Screenshot 2025-10-27 163531" src="https://github.com/user-attachments/assets/c8d77351-8996-4637-8226-828ec3ffb978" />
 
 <img width="1886" height="926" alt="Screenshot 2025-10-27 163547" src="https://github.com/user-attachments/assets/ef6495e0-5e75-4b2f-9ea0-21e6b27d6f90" />
